@@ -55,7 +55,7 @@ for(let i = 5; i >= 1; i--){
     document.write('<br/>')
 }
 
-// Check Missing Number Program - The Question was asked to me in one of the interviews recently
+// Check Missing Number Program 
 const arr = [10,9,8,7,1,2,5,4]
 function chkMissingNumber(arr){
     let max = 0;
